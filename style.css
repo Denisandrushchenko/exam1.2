@@ -319,8 +319,3 @@ header{
             margin-left: 25%;
         }
     }
-
-    .section_item:hover .section_item:nth-child(1){
-           border-color: blue;
-        
-    }
